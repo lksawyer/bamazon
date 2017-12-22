@@ -1,0 +1,24 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lksawyer/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lksawyer/bamazon/issues"
+  },
+  "homepage": "https://github.com/lksawyer/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.9.1",
+    "inquirer": "^4.0.1",
+    "mysql": "^2.15.0"
+  }
+}
